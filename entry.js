@@ -9,3 +9,6 @@ for (counter = 0; counter < 10; counter++){
 console.log(theTree);
 
 theTree.traverse();
+
+
+console.info('Binary Search Tree: theTree');
