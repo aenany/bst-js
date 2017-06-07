@@ -12,7 +12,7 @@ body {
 }
 
 .sun {
-    width: 256px; 
+    width: 256px;
     height: 256px;
     display: block;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 @keyframes moveDown {
-  to {
-     transform: translate(0, 132px);
-  }
+    to {
+        transform: translate(0, 132px);
+    }
 }
